@@ -11,7 +11,7 @@
     "npm": "3.10.8"
   },
   "dependencies": {
-    "express": "4.13.0",
-    "socket.io": "*"
+    "express": "latest",
+    "socket.io": "latest"
   }
 }
