@@ -3,4 +3,7 @@
   "version": "0.0.1",
   "description": "A secure Chat app",
   "dependencies": {}
+  "scripts": {
+  "start": "node index.js"
+  }
 }
