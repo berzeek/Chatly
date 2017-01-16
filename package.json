@@ -1,9 +1,16 @@
 {
   "name": "chatly",
   "version": "0.0.1",
-  "description": "A secure Chat app",
-  "dependencies": {},
+  "description": "A simple Chat app",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.4.x",
+    "npm": "3.8.x"
+  },
+  "dependencies": {
+    "express": "4.13.x"
   }
 }
